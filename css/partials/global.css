@@ -59,3 +59,7 @@ p.para{
     color: var(--text-color);
     font: normal 500px 16px/ 25px var(--Roboto);
 }
+
+.font-roboto{
+    font-family: var(--Roboto) ;
+}
